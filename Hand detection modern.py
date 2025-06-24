@@ -194,9 +194,9 @@ class AlphaNumericKeyboardApp(ctk.CTkFrame):
         
         # Symmetric 3x9 layout with only letters (27 letters total)
         self.keys_layout = [
-            ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O'],
-            ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'], 
-            ['Z', 'X', 'C', 'V', 'B', 'N', 'M', 'P', '']
+            ['E', 'T', 'A', 'O', 'I', 'N', 'S', 'R', 'H'],
+            ['L', 'D', 'U', 'C', 'M', 'F', 'Y', 'W', 'G'], 
+            ['P', 'B', 'V', 'K', 'X', 'J', 'Q', 'Z', '_'] 
         ]
 
         self.key_buttons = {}  # Store button references for highlighting
