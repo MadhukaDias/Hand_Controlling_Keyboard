@@ -1,1 +1,0 @@
-# Hand_Operating_Keyboard
